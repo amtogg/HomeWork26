@@ -10,6 +10,7 @@ import java.io.*;
 
 public class SimpleTemplateSubstitutor {
 
+
     public static void main(String[] args) {
         try {
             String template = readFileFromResources("template.txt");
